@@ -2,9 +2,9 @@
 // You need to make the function load the content of that page into the "content" div on the index file
 
 var routes = {
-  '': 'home.html',
-  '/':  'index.html',
-  '#home':  'index.html',
+  '': 'signin.html',
+  '/':  'signin.html',
+  '#home':  'signin.html',
   '#signin_link':  'signin.html',
   '#mission_link': 'mission.html',
   '#about_link':  'about.html'
